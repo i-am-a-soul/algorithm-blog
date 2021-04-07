@@ -63,6 +63,7 @@ module.exports = {
 			'/template/04.mathematics/模板-多重集的组合数.md',
             '/template/04.mathematics/模板-容斥原理.md',
             '/template/04.mathematics/模板-01分数规划.md',
+			'/template/04.mathematics/模板-敌对搜索.md',
 			'/template/04.mathematics/模板-Nim游戏.md',
         ],
     }, {
