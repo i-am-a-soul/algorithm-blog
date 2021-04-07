@@ -8,6 +8,7 @@ module.exports = {
 			'/solution/06.dynamic-programming/6.1 线性DP/题解-移动服务-线性DP.md',
 			'/solution/06.dynamic-programming/6.1 线性DP/题解-传纸条-线性DP.md',
 			'/solution/06.dynamic-programming/6.1 线性DP/题解-饼干-线性DP.md',
+			'/solution/06.dynamic-programming/6.1 线性DP/题解-最长回文子串-字符串线性DP.md',
         ],
     }, {
         title: '背包',
