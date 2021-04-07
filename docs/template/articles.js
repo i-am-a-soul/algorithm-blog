@@ -141,6 +141,7 @@ module.exports = {
             '/template/09.tricks/模板-STL.md',
 			'/template/09.tricks/模板-火车头.md',
 			'/template/09.tricks/模板-snippet.md',
+			'/template/09.tricks/模板-卡时.md',
         ],
     }],
 }
