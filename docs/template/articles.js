@@ -91,6 +91,7 @@ module.exports = {
             '/template/06.dynamic-programming/模板-最长上升子序列.md',
             '/template/06.dynamic-programming/模板-最长公共子序列.md',
             '/template/06.dynamic-programming/模板-01背包.md',
+			'/template/06.dynamic-programming/模板-二维费用的背包.md',
 			'/template/06.dynamic-programming/模板-01背包求方案数.md',
             '/template/06.dynamic-programming/模板-完全背包.md',
             '/template/06.dynamic-programming/模板-多重背包.md',
