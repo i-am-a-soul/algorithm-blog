@@ -60,6 +60,7 @@ module.exports = {
     }, {
         title: '计算几何',
         children: [
+			'/solution/04.mathematics/4.11 计算几何/题解-平面最近点对-计算几何.md',
         ],
     }, {
         title: '其他',
