@@ -61,6 +61,7 @@ module.exports = {
         children: [
 			'/solution/07.graph-theory/7.9 二分图的覆盖与独立集/题解-机器任务-二分图最小点覆盖.md',
 			'/solution/07.graph-theory/7.9 二分图的覆盖与独立集/题解-泥泞的区域-二分图最小点覆盖.md',
+			'/solution/07.graph-theory/7.9 二分图的覆盖与独立集/题解-Guardian of Decency-二分图最大独立集.md',
 			'/solution/07.graph-theory/7.9 二分图的覆盖与独立集/题解-骑士放置-二分图最大独立集.md',
 			'/solution/07.graph-theory/7.9 二分图的覆盖与独立集/题解-捉迷藏-DAG的最小路径点覆盖.md',
         ],
