@@ -3,6 +3,7 @@ module.exports = {
         title: '基本算法',
         children: [
             '',
+            '/template/01.primary-algorithm/模板-知识点.md',
             '/template/01.primary-algorithm/模板-位运算.md',
             '/template/01.primary-algorithm/模板-枚举.md',
             '/template/01.primary-algorithm/模板-二维前缀和.md',
