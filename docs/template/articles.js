@@ -84,6 +84,7 @@ module.exports = {
 			'/template/05.advanced-data-structure/模板-cdq分治.md',
 			'/template/05.advanced-data-structure/模板-整体分治.md',
 			'/template/05.advanced-data-structure/模板-可持久化Trie.md',
+			'/template/05.advanced-data-structure/模板-二维树状数组.md',
         ],
     }, {
         title: '动态规划',
