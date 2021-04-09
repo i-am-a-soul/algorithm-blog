@@ -30,7 +30,7 @@ void get_next_array () {
 void kmp () {
     get_next_array();
     for (int i = 1, j = 0; i <= n; ++ i) {
-        while (j > 0 && s[i] != t[j + 1]) j = next[j];
+        while (j > 0 && (j == m || s[i] != t[j + 1])) j = next[j];
         if (s[i] == t[j + 1]) ++ j;
         if (j == m) printf("%d\n", i - m + 1);
     }
