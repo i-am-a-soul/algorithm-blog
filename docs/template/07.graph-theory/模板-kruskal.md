@@ -43,8 +43,8 @@ int kruskal () {
         int u = e[i].u, v = e[i].v, w = e[i].w;
         if (query(u, v) == false) {
             merge(u, v);
-            ++ cnt;
             res += w;
+            ++ cnt;
         }
     }
     return (cnt < n - 1 ? -1 : res);
