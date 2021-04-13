@@ -51,6 +51,7 @@ module.exports = {
             prefix + '1.7 贪心/题解-雷达设备-贪心.md',
 			prefix + '1.7 贪心/题解-超市-贪心.md',
 			prefix + '1.7 贪心/题解-最长上升子序列-贪心.md',
+			prefix + '1.7 贪心/题解-田忌赛马-贪心.md',
         ],
     }, {
         title: '双指针',
