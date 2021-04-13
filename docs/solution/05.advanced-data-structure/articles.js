@@ -7,6 +7,7 @@ module.exports = {
 			'/solution/05.advanced-data-structure/5.1 并查集/题解-奇偶游戏-边带权并查集.md',
 			'/solution/05.advanced-data-structure/5.1 并查集/题解-奇偶游戏-扩展域并查集.md',
 			'/solution/05.advanced-data-structure/5.1 并查集/题解-食物链-扩展域并查集.md',
+			'/solution/05.advanced-data-structure/5.1 并查集/题解-星球大战-并查集.md',
         ],
     }, {
         title: '树状数组',
