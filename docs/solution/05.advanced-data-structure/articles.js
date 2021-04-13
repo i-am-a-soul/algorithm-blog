@@ -25,6 +25,7 @@ module.exports = {
             '/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-维护序列-线段树.md',
 			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-亚特兰蒂斯-扫描线+线段树.md',
 			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-窗内的星星-扫描线+线段树.md',
+			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-花神游历各国-区间开平方.md',
         ],
     }, {
         title: '分块',
