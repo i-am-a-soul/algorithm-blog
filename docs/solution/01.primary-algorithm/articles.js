@@ -6,6 +6,7 @@ module.exports = {
         children: [
             prefix + '1.1 位运算/题解-起床困难综合症-位运算.md',
             prefix + '1.1 位运算/题解-只出现一次的数字-位运算.md',
+			prefix + '1.1 位运算/题解-只出现一次的数字 II-位运算.md',
         ],
     }, {
         title: '递推与递归',
