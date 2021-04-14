@@ -27,6 +27,7 @@ module.exports = {
 			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-窗内的星星-扫描线+线段树.md',
 			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-花神游历各国-区间开平方.md',
 			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-The Child and Sequence-区间取模.md',
+			'/solution/05.advanced-data-structure/5.3 线段树/权值线段树/题解-Lomsat gelral-权值线段树合并.md',
         ],
     }, {
         title: '分块',
