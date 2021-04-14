@@ -76,6 +76,7 @@ module.exports = {
         title: '计数类DP',
         children: [
 			'/solution/06.dynamic-programming/6.12 计数类DP/题解-装饰围栏-计数DP.md',
+			'/solution/06.dynamic-programming/6.12 计数类DP/题解-低价购买-计数DP.md',
         ],
     }, {
         title: '数位统计DP',
