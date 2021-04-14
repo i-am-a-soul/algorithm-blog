@@ -29,6 +29,7 @@ module.exports = {
 			'/solution/05.advanced-data-structure/5.3 线段树/_普通_线段树/题解-The Child and Sequence-区间取模.md',
 			'/solution/05.advanced-data-structure/5.3 线段树/权值线段树/题解-Lomsat gelral-权值线段树合并.md',
 			'/solution/05.advanced-data-structure/5.3 线段树/权值线段树/题解-永无乡-权值线段树合并.md',
+			'/solution/05.advanced-data-structure/5.3 线段树/权值线段树/题解-Count on a tree-主席树+树上差分.md',
         ],
     }, {
         title: '分块',
