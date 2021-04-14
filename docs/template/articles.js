@@ -139,6 +139,7 @@ module.exports = {
             '/template/08.string/模板-最小表示法.md',
             '/template/08.string/模板-KMP.md',
             '/template/08.string/模板-Trie.md',
+			'/template/08.string/模板-manacher.md',
         ],
     }, {
         title: '综合技巧与实践',
