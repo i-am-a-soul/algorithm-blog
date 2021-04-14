@@ -3,6 +3,7 @@ module.exports = {
         title: '树与图的遍历',
         children: [
             '/solution/03.search/3.1 树与图的遍历/题解-可达性统计-反图 拓扑排序 bitset.md',
+			'/solution/03.search/3.1 树与图的遍历/题解-封锁阳光大学-图染色.md',
         ],
     }, {
         title: '深度优先搜索',
