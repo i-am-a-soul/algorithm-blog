@@ -26,6 +26,7 @@ module.exports = {
         children: [
             '/solution/02.primary-data-structure/2.5 二叉堆/题解-动态中位数-对顶堆.md',
 			'/solution/02.primary-data-structure/2.5 二叉堆/题解-荷马史诗-K叉Huffman树.md',
+			'/solution/02.primary-data-structure/2.5 二叉堆/题解-最小的k个数-堆.md',
         ],
     }],
 }
