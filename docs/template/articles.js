@@ -26,6 +26,7 @@ module.exports = {
             '/template/02.primary-data-structure/模板-单调栈.md',
             '/template/02.primary-data-structure/模板-单调队列.md',
             '/template/02.primary-data-structure/模板-Hash-拉链法.md',
+			'/template/02.primary-data-structure/模板-树Hash.md',
             '/template/02.primary-data-structure/模板-手写堆.md',
         ],
     }, {
