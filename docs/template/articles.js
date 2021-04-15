@@ -19,6 +19,7 @@ module.exports = {
 			'/template/01.primary-algorithm/模板-双指针.md',
 			'/template/01.primary-algorithm/模板-高精度.md',
 			'/template/01.primary-algorithm/模板-二维差分.md',
+			'/template/01.primary-algorithm/模板-悬线法.md',
         ],
     }, {
         title: '初级数据结构',
