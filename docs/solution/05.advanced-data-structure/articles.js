@@ -16,6 +16,7 @@ module.exports = {
 			'/solution/05.advanced-data-structure/5.2 树状数组/_普通_树状数组/题解-一个简单的问题 2-树状数组.md',
             '/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-逆序对-权值树状数组.md',
             '/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-Laptop-权值树状数组.md',
+			'/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-导弹拦截-最长上升子序列.md',
         ],
     }, {
         title: '线段树',
