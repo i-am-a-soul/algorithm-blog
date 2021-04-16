@@ -72,6 +72,7 @@ module.exports = {
         children: [
 			'/solution/04.mathematics/4.12 其他/题解-H数.md',
 			'/solution/04.mathematics/4.12 其他/题解-大大数星星.md',
+			'/solution/04.mathematics/4.12 其他/题解-折线分割平面.md',
         ],
     }],
 }
