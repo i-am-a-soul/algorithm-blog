@@ -65,6 +65,7 @@ module.exports = {
             prefix + '1.8 双指针/题解-两数之和-双指针.md',
             prefix + '1.8 双指针/题解-数组元素的目标和-双指针.md',
             prefix + '1.8 双指针/题解-最长连续不重复子序列-双指针.md',
+			prefix + '1.8 双指针/题解-Graveyard Design-双指针.md',
         ],
     }],
 }
