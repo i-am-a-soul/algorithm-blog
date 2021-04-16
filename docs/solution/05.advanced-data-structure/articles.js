@@ -17,6 +17,7 @@ module.exports = {
             '/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-逆序对-权值树状数组.md',
             '/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-Laptop-权值树状数组.md',
 			'/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-导弹拦截-最长上升子序列.md',
+			'/solution/05.advanced-data-structure/5.2 树状数组/权值树状数组/题解-会场预约-权值树状数组.md',
         ],
     }, {
         title: '线段树',
