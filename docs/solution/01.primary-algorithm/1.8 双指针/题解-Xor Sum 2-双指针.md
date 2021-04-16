@@ -6,7 +6,7 @@
 
 异或是不进位的加法。
 
-性质：$a \oplus b \le a + b$，当且仅当$a \& b=0$时取等号。
+性质：$a \oplus b \le a + b$，当且仅当$a \And b=0$时取等号。
 
 设$a \lt b \lt c$，
 
@@ -31,8 +31,7 @@ int main () {
     for (int j = 1, i = 1; j <= n; ++ j) {
         sum += a[j], xor_sum ^= a[j];
         while (i < j && sum != xor_sum) {
-            sum -= a[i];
-            xor_sum ^= a[i];
+            sum -= a[i], xor_sum ^= a[i];
             ++ i;
         }
         res += j - i + 1;

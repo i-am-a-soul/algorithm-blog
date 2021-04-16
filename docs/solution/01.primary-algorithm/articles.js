@@ -68,6 +68,7 @@ module.exports = {
 			prefix + '1.8 双指针/题解-Jessica\'s Reading Problem-双指针.md',
 			prefix + '1.8 双指针/题解-Graveyard Design-双指针.md',
 			prefix + '1.8 双指针/题解-Xor Sum 2-双指针.md',
+			prefix + '1.8 双指针/题解-pog loves szh II-分类讨论+双指针.md',
         ],
     }],
 }
