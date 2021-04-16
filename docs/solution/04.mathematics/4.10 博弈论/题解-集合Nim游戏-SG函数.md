@@ -1,6 +1,8 @@
 # 集合`Nim`游戏
 
-## 原理
+[AcWing-893-集合-Nim游戏](https://www.acwing.com/solution/AcWing/content/3929/)
+
+## 分析
 
 ```
 /* 
@@ -18,9 +20,7 @@ Yes
 
 ![](/img/0055.bmp)
 
-## 模板题
-
-[AcWing-893-集合-Nim游戏](https://www.acwing.com/solution/AcWing/content/3929/)
+## 实现
 
 ```cpp
 #include <iostream>

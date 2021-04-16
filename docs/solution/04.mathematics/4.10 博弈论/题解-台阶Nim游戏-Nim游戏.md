@@ -1,8 +1,8 @@
 # 台阶`Nim`游戏
 
-## 模板题
-
 [AcWing-892-台阶-Nim游戏](https://www.acwing.com/solution/AcWing/content/8393/)
+
+## 实现
 
 ```cpp
 #include <iostream>

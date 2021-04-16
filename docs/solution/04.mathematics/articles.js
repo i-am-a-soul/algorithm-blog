@@ -57,6 +57,9 @@ module.exports = {
         title: '博弈论',
         children: [
 			'/solution/04.mathematics/4.10 博弈论/题解-剪纸游戏-SG函数.md',
+			'/solution/04.mathematics/4.10 博弈论/题解-台阶Nim游戏-Nim游戏.md',
+			'/solution/04.mathematics/4.10 博弈论/题解-集合Nim游戏-SG函数.md',
+			'/solution/04.mathematics/4.10 博弈论/题解-拆分Nim游戏-SG函数.md',
         ],
     }, {
         title: '计算几何',

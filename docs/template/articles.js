@@ -69,9 +69,6 @@ module.exports = {
             '/template/04.mathematics/模板-01分数规划.md',
 			'/template/04.mathematics/模板-敌对搜索.md',
 			'/template/04.mathematics/模板-Nim游戏.md',
-			'/template/04.mathematics/模板-台阶Nim游戏.md',
-			'/template/04.mathematics/模板-集合Nim游戏.md',
-			'/template/04.mathematics/模板-拆分Nim游戏.md',
         ],
     }, {
         title: '高级数据结构',

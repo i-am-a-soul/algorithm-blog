@@ -1,8 +1,8 @@
 # 拆分`Nim`游戏
 
-## 模板题
-
 [AcWing-894-拆分-Nim游戏](https://www.acwing.com/solution/content/39046/)
+
+## 实现
 
 ```cpp
 #include <iostream>
