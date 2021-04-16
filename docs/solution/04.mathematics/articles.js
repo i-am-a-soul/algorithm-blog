@@ -71,6 +71,7 @@ module.exports = {
         title: '其他',
         children: [
 			'/solution/04.mathematics/4.12 其他/题解-H数.md',
+			'/solution/04.mathematics/4.12 其他/题解-大大数星星.md',
         ],
     }],
 }
