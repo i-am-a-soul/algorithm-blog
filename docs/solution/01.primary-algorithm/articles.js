@@ -58,6 +58,7 @@ module.exports = {
 			prefix + '1.7 贪心/题解-最大的和-贪心.md',
 			prefix + '1.7 贪心/题解-田忌赛马-贪心.md',
 			prefix + '1.7 贪心/题解-三值的排序-贪心.md',
+			prefix + '1.7 贪心/题解-拼数-贪心.md',
         ],
     }, {
         title: '双指针',
