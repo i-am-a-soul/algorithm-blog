@@ -30,6 +30,7 @@ module.exports = {
 			prefix + '1.4 二分/题解-防线-二分答案.md',
 			prefix + '1.4 二分/题解-4 Values whose Sum is 0-中途相遇法.md',
 			prefix + '1.4 二分/题解-寻找段落-二分答案+单调队列.md',
+			prefix + '1.4 二分/题解-第K大的数-二分套二分.md',
         ],
     }, {
         title: '排序',
