@@ -41,6 +41,7 @@ module.exports = {
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-B城-割点.md',
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-网络-边双连通分量+缩点.md',
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-圆桌骑士-点双连通分量.md',
+			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-无序字母对-欧拉路.md',
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-看牛-欧拉路.md',
         ],
     }, {

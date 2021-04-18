@@ -16,7 +16,7 @@ module.exports = {
 			prefix + '1.2 递推与递归/题解-汉诺塔问题-递归.md',
 			prefix + '1.2 递推与递归/题解-约数之和-分治.md',
 			prefix + '1.2 递推与递归/题解-分形之城-分形.md',
-            prefix + '1.2 递推与递归/题解-Fractal-分形.md', 
+            prefix + '1.2 递推与递归/题解-Fractal-分形.md',
         ],
     }, {
         title: '前缀和与差分',
