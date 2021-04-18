@@ -38,6 +38,7 @@ module.exports = {
         children: [
 			'/solution/05.advanced-data-structure/5.4 分块/题解-蒲公英-分块.md',
 			'/solution/05.advanced-data-structure/5.4 分块/题解-磁力块-分块.md',
+			'/solution/05.advanced-data-structure/5.4 分块/题解-数列分块入门 2-分块.md',
         ],
     }, {
         title: '点分治',
