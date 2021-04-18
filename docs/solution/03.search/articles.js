@@ -4,6 +4,7 @@ module.exports = {
         children: [
             '/solution/03.search/3.1 树与图的遍历/题解-可达性统计-反图 拓扑排序 bitset.md',
 			'/solution/03.search/3.1 树与图的遍历/题解-封锁阳光大学-图染色.md',
+			'/solution/03.search/3.1 树与图的遍历/题解-信息传递-拓扑排序+DFS.md',
         ],
     }, {
         title: '深度优先搜索',
