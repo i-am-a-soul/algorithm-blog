@@ -5,6 +5,7 @@ module.exports = {
 			'/solution/02.primary-data-structure/2.1 栈/题解-编辑器-对顶栈.md',
 			'/solution/02.primary-data-structure/2.1 栈/题解-进出栈序列问题-递推.md',
 			'/solution/02.primary-data-structure/2.1 栈/题解-直方图中最大的矩形-单调栈.md',
+			'/solution/02.primary-data-structure/2.1 栈/题解-Patrik 音乐会的等待-单调栈.md',
         ],
     }, {
         title: '队列',
