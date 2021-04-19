@@ -76,10 +76,11 @@ module.exports = {
 			'/solution/06.dynamic-programming/6.11 四边形不等式/题解-再探石子合并-四边形不等式优化.md',
         ],
     }, {
-        title: '计数类DP',
+        title: '计数DP',
         children: [
-			'/solution/06.dynamic-programming/6.12 计数类DP/题解-装饰围栏-计数DP.md',
-			'/solution/06.dynamic-programming/6.12 计数类DP/题解-低价购买-计数DP.md',
+			'/solution/06.dynamic-programming/6.12 计数DP/题解-装饰围栏-计数DP.md',
+			'/solution/06.dynamic-programming/6.12 计数DP/题解-低价购买-计数DP.md',
+			'/solution/06.dynamic-programming/6.12 计数DP/题解-数的划分-计数DP.md',
         ],
     }, {
         title: '数位统计DP',
