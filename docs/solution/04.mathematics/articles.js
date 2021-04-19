@@ -12,6 +12,7 @@ module.exports = {
 			'/solution/04.mathematics/4.2 约数/题解-余数之和-整除分块.md',
 			'/solution/04.mathematics/4.2 约数/题解-Hankson的趣味题-最大公约数.md',
 			'/solution/04.mathematics/4.2 约数/题解-仪仗队-欧拉函数.md',
+			'/solution/04.mathematics/4.2 约数/题解-Calculation 2-欧拉函数.md',
         ],
     }, {
         title: '同余',
