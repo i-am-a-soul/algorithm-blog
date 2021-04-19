@@ -16,6 +16,7 @@ module.exports = {
         title: '背包',
         children: [
 			'/solution/06.dynamic-programming/6.2 背包/题解-自然数拆分-完全背包.md',
+			'/solution/06.dynamic-programming/6.2 背包/题解-多米诺骨牌-背包.md',
 			'/solution/06.dynamic-programming/6.2 背包/题解-陪审团-01背包.md',
 			'/solution/06.dynamic-programming/6.2 背包/题解-选课-有树形依赖的背包.md',
         ],
