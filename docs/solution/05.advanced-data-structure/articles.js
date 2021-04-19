@@ -56,6 +56,7 @@ module.exports = {
     }, {
         title: '离线分治算法',
         children: [
+			'/solution/05.advanced-data-structure/5.7 离线分治算法/题解-偏序-cdq套cdq.md',
         ],
     }, {
         title: '可持久化数据结构',
