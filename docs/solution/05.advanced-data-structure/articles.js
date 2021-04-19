@@ -44,6 +44,7 @@ module.exports = {
 			'/solution/05.advanced-data-structure/5.4 分块/题解-数列分块入门 5-分块.md',
 			'/solution/05.advanced-data-structure/5.4 分块/题解-数列分块入门 7-分块.md',
 			'/solution/05.advanced-data-structure/5.4 分块/题解-数列分块入门 8-分块.md',
+			'/solution/05.advanced-data-structure/5.4 分块/题解-Chika and Friendly Pairs-莫队+树状数组.md',
         ],
     }, {
         title: '点分治',
