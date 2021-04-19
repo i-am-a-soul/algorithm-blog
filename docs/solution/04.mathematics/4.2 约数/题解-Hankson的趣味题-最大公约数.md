@@ -62,7 +62,7 @@ int gcd (int a, int b) {
 }
 
 int main () {
-    get_primes(N);
+    get_primes(N - 10);
     int T;
     scanf("%d", &T);
     while (T --) {
