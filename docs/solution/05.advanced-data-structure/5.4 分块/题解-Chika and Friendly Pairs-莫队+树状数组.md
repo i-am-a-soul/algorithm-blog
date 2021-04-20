@@ -14,7 +14,7 @@ $a_j - K \le a_i \le a_j + K,i \lt j$。
 
 ## 实现
 
-```c++
+```cpp
 #include <iostream>
 #include <cmath>
 #include <algorithm>
