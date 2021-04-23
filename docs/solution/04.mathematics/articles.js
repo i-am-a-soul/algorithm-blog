@@ -31,7 +31,8 @@ module.exports = {
 			'/solution/04.mathematics/4.5 高斯消元与线性空间/题解-球形空间产生器-高斯消元.md',
 			'/solution/04.mathematics/4.5 高斯消元与线性空间/题解-开关问题-异或线性方程组.md',
 			'/solution/04.mathematics/4.5 高斯消元与线性空间/题解-装备购买-线性空间.md',
-			'/solution/04.mathematics/4.5 高斯消元与线性空间/题解-异或运算-线性空间.md',
+			'/solution/04.mathematics/4.5 高斯消元与线性空间/题解-xor序列-线性基.md',
+			'/solution/04.mathematics/4.5 高斯消元与线性空间/题解-异或运算-线性基.md',
         ],
     }, {
         title: '组合计数',
