@@ -1,4 +1,4 @@
-# 台阶`Nim`游戏
+# 台阶`-Nim`游戏
 
 [AcWing-892-台阶-Nim游戏](https://www.acwing.com/solution/AcWing/content/8393/)
 
