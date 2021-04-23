@@ -3,6 +3,7 @@ module.exports = {
         title: '并查集',
         children: [
             '/solution/05.advanced-data-structure/5.1 并查集/题解-超市-并查集+贪心.md',
+			'/solution/05.advanced-data-structure/5.1 并查集/题解-格子游戏-并查集.md',
 			'/solution/05.advanced-data-structure/5.1 并查集/题解-银河英雄传说-边带权并查集.md',
 			'/solution/05.advanced-data-structure/5.1 并查集/题解-信息传递-边带权并查集.md',
 			'/solution/05.advanced-data-structure/5.1 并查集/题解-奇偶游戏-边带权并查集.md',
