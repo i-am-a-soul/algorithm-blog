@@ -23,6 +23,7 @@ module.exports = {
     }, {
         title: 'AC自动机',
         children: [
+			'/solution/08.string/8.5 AC自动机/题解-单词-AC自动机.md',
         ],
     }, {
         title: '后缀数组',
