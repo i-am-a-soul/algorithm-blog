@@ -134,6 +134,7 @@ module.exports = {
 			'/template/07.graph-theory/模板-最大流.md',
 			'/template/07.graph-theory/模板-费用流.md',
 			'/template/07.graph-theory/模板-三元环计数.md',
+			'/template/07.graph-theory/模板-树链剖分.md',
         ],
     }, {
         title: '字符串',
