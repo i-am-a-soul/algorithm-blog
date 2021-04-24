@@ -7,14 +7,12 @@
 ```cpp
 #include <iostream>
 #include <vector>
-#define inf 0x3f3f3f3f
 using namespace std;
 
 const int N = 12;
-int n, a[N];
+int n, a[N], res;
 bool mark[N];
 vector<int> b[N];
-int res = inf;
 
 int gcd (int a, int b) {
     return b == 0 ? a : gcd(b, a % b);
@@ -50,6 +48,7 @@ int main () {
     cin >> n;
     for (int i = 1; i <= n; ++ i) cin >> a[i];
 
+    res = n;
     dfs(1, 0, 0);
     cout << res << endl;
     return 0;

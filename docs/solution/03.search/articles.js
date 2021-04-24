@@ -11,6 +11,7 @@ module.exports = {
         children: [
             '/solution/03.search/3.2 深度优先搜索/题解-小猫爬山-dfs.md',
 			'/solution/03.search/3.2 深度优先搜索/题解-分成互质组-dfs.md',
+			'/solution/03.search/3.2 深度优先搜索/题解-数独-dfs.md',
         ],
     }, {
         title: '剪枝',
