@@ -10,6 +10,7 @@ module.exports = {
         title: '深度优先搜索',
         children: [
             '/solution/03.search/3.2 深度优先搜索/题解-小猫爬山-dfs.md',
+			'/solution/03.search/3.2 深度优先搜索/题解-分成互质组-dfs.md',
         ],
     }, {
         title: '剪枝',
