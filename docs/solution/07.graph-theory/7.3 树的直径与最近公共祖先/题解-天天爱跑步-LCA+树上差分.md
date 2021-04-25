@@ -22,7 +22,7 @@ edge e[2 * N];
 int idx, head[N];
 int n, m;
 int w[N];
-int depth[N], fa[N], Size[N];
+int dep[N], fa[N], Size[N];
 int heavy_son[N], top[N];
 vector<int> a1[N], b1[N], a2[N], b2[N];
 int c1[2 * N], c2[2 * N];
@@ -38,7 +38,7 @@ void dfs1 (int cur, int father) {
     for (int i = head[cur]; i != -1; i = e[i].next) {
         int to = e[i].to;
         if (to == father) continue;
-        depth[to] = depth[cur] + 1;
+        dep[to] = dep[cur] + 1;
         fa[to] = cur;
         dfs1(to, cur);
         Size[cur] += Size[to];
@@ -57,14 +57,14 @@ void dfs2 (int cur, int top_node) {
 }
 int lca (int x, int y) {
     while (top[x] != top[y]) {
-        if (depth[top[x]] < depth[top[y]]) swap(x, y);
+        if (dep[top[x]] < dep[top[y]]) swap(x, y);
         x = fa[top[x]];
     }
-    if (depth[x] > depth[y]) swap(x, y);
+    if (dep[x] > dep[y]) swap(x, y);
     return x;
 }
 void dfs3 (int cur, int father) {
-    int v1 = c1[depth[cur] + w[cur]], v2 = c2[w[cur] - depth[cur] + n];
+    int v1 = c1[dep[cur] + w[cur]], v2 = c2[w[cur] - dep[cur] + n];
     for (int i = head[cur]; i != -1; i = e[i].next) {
         int to = e[i].to;
         if (to == father) continue;
@@ -74,7 +74,7 @@ void dfs3 (int cur, int father) {
     for (int i = 0; i < b1[cur].size(); ++ i) -- c1[b1[cur][i]];
     for (int i = 0; i < a2[cur].size(); ++ i) ++ c2[a2[cur][i] + n];
     for (int i = 0; i < b2[cur].size(); ++ i) -- c2[b2[cur][i] + n];
-    res[cur] = c1[depth[cur] + w[cur]] - v1 + c2[w[cur] - depth[cur] + n] - v2;
+    res[cur] = c1[dep[cur] + w[cur]] - v1 + c2[w[cur] - dep[cur] + n] - v2;
 }
 
 int main () {
@@ -92,10 +92,10 @@ int main () {
     for (int i = 1, x, y; i <= m; ++ i) {
         scanf("%d%d", &x, &y);
         int z = lca(x, y);
-        a1[x].push_back(depth[x]);
-        b1[fa[z]].push_back(depth[x]);
-        a2[y].push_back(depth[x] - 2 * depth[z]);
-        b2[z].push_back(depth[x] - 2 * depth[z]);
+        a1[x].push_back(dep[x]);
+        b1[fa[z]].push_back(dep[x]);
+        a2[y].push_back(dep[x] - 2 * dep[z]);
+        b2[z].push_back(dep[x] - 2 * dep[z]);
     }
     dfs3(1, -1);
     for (int i = 1; i <= n; ++ i)

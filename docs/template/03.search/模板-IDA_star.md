@@ -14,7 +14,7 @@
 using namespace std;
 
 const int N = 20;
-int n, a[N], max_depth;
+int n, a[N], max_dep;
 
 int get_tot () {
     int res = 0;
@@ -36,7 +36,7 @@ bool IDA_star (int cur) {
     int tot = get_tot();
     if (tot == 0) return true;
 
-    if (cur + (tot + 1) / 3 > max_depth) return false;
+    if (cur + (tot + 1) / 3 > max_dep) return false;
 
     int copy_a[N];
     memcpy(copy_a, a, sizeof(copy_a));
@@ -60,14 +60,14 @@ int main () {
         for (int i = 1; i <= n; ++ i) cin >> a[i];
 
         bool flag = false;
-        for (max_depth = 0; max_depth <= 4; ++ max_depth) {
+        for (max_dep = 0; max_dep <= 4; ++ max_dep) {
             if (IDA_star(0) == true) {
                 flag = true;
                 break;
             }
         }
         if(flag == true)
-            cout << max_depth << endl;
+            cout << max_dep << endl;
         else
             cout << "5 or more" << endl;
     }

@@ -20,7 +20,7 @@ int idx, head[N];
 int n, m;
 int w[N];
 int cnt, nums[N];
-int depth[N], fa[N], size[N];
+int dep[N], fa[N], size[N];
 int heavy_son[N], top[N];
 struct node {
     int ls, rs;
@@ -50,7 +50,7 @@ void dfs1 (int cur, int father) {
     for (int i = head[cur]; i != -1; i = e[i].next) {
         int to = e[i].to;
         if (to == father) continue;
-        depth[to] = depth[cur] + 1;
+        dep[to] = dep[cur] + 1;
         fa[to] = cur;
         dfs1(to, cur);
         size[cur] += size[to];
@@ -69,10 +69,10 @@ void dfs2 (int cur, int top_node) {
 }
 int lca (int x, int y) {
     while (top[x] != top[y]) {
-        if (depth[top[x]] < depth[top[y]]) swap(x, y);
+        if (dep[top[x]] < dep[top[y]]) swap(x, y);
         x = fa[top[x]];
     }
-    if (depth[x] > depth[y]) swap(x, y);
+    if (dep[x] > dep[y]) swap(x, y);
     return x;
 }
 void update (int rt) {
