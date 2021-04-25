@@ -2,6 +2,10 @@
 
 [AcWing-166-数独](https://www.acwing.com/problem/content/description/168/)
 
+## 分析
+
+![](/img/0065.bmp)
+
 ## 实现
 
 ```cpp
