@@ -39,6 +39,7 @@ module.exports = {
     }, {
         title: 'IDA星',
         children: [
+			'/solution/03.search/3.8 IDA星/题解-回转游戏-IDA星.md',
         ],
     }],
 }
