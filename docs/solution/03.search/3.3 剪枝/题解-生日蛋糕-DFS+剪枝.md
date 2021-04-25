@@ -2,6 +2,10 @@
 
 [AcWing-168-生日蛋糕](https://www.acwing.com/problem/content/description/170/)
 
+## 分析
+
+见《进阶指南》第`107`页。
+
 ## 实现
 
 ```cpp

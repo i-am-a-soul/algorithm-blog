@@ -2,6 +2,10 @@
 
 [AcWing-179-八数码](https://www.acwing.com/problem/content/description/181/)
 
+## 分析
+
+见《进阶指南》第`127`页。
+
 ## 实现
 
 ```cpp
