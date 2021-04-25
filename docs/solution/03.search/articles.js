@@ -34,6 +34,7 @@ module.exports = {
     }, {
         title: 'A星',
         children: [
+			'/solution/03.search/3.7 A星/题解-八数码-A星.md',
         ],
     }, {
         title: 'IDA星',
