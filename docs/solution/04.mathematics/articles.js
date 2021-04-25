@@ -21,6 +21,7 @@ module.exports = {
         title: '同余',
         children: [
 			'/solution/04.mathematics/4.3 同余/题解-约数之和-乘法逆元.md',
+			'/solution/04.mathematics/4.3 同余/题解-青蛙的约会-线性同余方程.md',
         ],
     }, {
         title: '矩阵乘法',
