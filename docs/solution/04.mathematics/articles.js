@@ -44,10 +44,11 @@ module.exports = {
     }, {
         title: '组合计数',
         children: [
-            '/solution/04.mathematics/4.6 组合计数/题解-古代猪文-扩展Lucas.md',
 			'/solution/04.mathematics/4.6 组合计数/题解-牡牛和牝牛-组合计数.md',
 			'/solution/04.mathematics/4.6 组合计数/题解-车的放置-组合计数.md',
 			'/solution/04.mathematics/4.6 组合计数/题解-数三角形-组合计数.md',
+			'/solution/04.mathematics/4.6 组合计数/题解-序列统计-组合计数.md',
+            '/solution/04.mathematics/4.6 组合计数/题解-古代猪文-扩展Lucas.md',
         ],
     }, {
         title: '容斥原理与莫比乌斯函数',
