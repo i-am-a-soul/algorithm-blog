@@ -1,6 +1,6 @@
-# 斐波那契前 `n` 项和
+# `Fibonacci` 前 `n` 项和
 
-[AcWing-1303-斐波那契前 n 项和](https://www.acwing.com/solution/content/15121/)
+[Fibonacci 前 n 项和](http://ybt.ssoier.cn:8088/problem_show.php?pid=1643)
 
 ## 实现
 
