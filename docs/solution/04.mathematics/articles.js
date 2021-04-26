@@ -28,6 +28,7 @@ module.exports = {
         title: '矩阵乘法',
         children: [
 			'/solution/04.mathematics/4.4 矩阵乘法/题解-斐波那契-矩阵快速幂.md',
+			'/solution/04.mathematics/4.4 矩阵乘法/题解-斐波那契前 n 项和-矩阵快速幂.md',
 			'/solution/04.mathematics/4.4 矩阵乘法/题解-石头游戏-矩阵快速幂.md',
         ],
     }, {
