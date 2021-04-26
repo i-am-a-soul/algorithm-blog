@@ -45,6 +45,7 @@ module.exports = {
         title: '组合计数',
         children: [
             '/solution/04.mathematics/4.6 组合计数/题解-古代猪文-扩展Lucas.md',
+			'/solution/04.mathematics/4.6 组合计数/题解-牡牛和牝牛-组合计数.md',
         ],
     }, {
         title: '容斥原理与莫比乌斯函数',
