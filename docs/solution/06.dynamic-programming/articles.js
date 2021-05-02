@@ -22,6 +22,7 @@ module.exports = {
 			'/solution/06.dynamic-programming/6.2 背包/题解-自然数拆分-完全背包.md',
 			'/solution/06.dynamic-programming/6.2 背包/题解-机器分配-分组背包.md',
 			'/solution/06.dynamic-programming/6.2 背包/题解-选课-有树形依赖的背包.md',
+			'/solution/06.dynamic-programming/6.2 背包/题解-货币系统-背包.md',
         ],
     }, {
         title: '区间DP',
