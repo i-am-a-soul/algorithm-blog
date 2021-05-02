@@ -104,6 +104,7 @@ module.exports = {
             '/template/06.dynamic-programming/模板-分组背包.md',
 			'/template/06.dynamic-programming/模板-有树形依赖的背包.md',
 			'/template/06.dynamic-programming/模板-背包问题求具体方案.md',
+			'/template/06.dynamic-programming/模板-状态机DP.md',
             '/template/06.dynamic-programming/模板-区间DP.md',
 			'/template/06.dynamic-programming/模板-树形DP.md',
         ],
