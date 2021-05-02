@@ -11,6 +11,7 @@ module.exports = {
 			'/solution/07.graph-theory/7.1 最短路/题解-牛站-邻接矩阵+矩阵快速幂.md',
 			'/solution/07.graph-theory/7.1 最短路/题解-灾后重建-floyd.md',
 			'/solution/07.graph-theory/7.1 最短路/题解-Legacy-线段树优化建图.md',
+			'/solution/07.graph-theory/7.1 最短路/题解-昂贵的聘礼-最短路.md',
         ],
     }, {
         title: '最小生成树',
