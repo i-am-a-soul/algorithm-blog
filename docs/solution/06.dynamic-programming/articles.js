@@ -30,6 +30,7 @@ module.exports = {
         children: [
 			'/solution/06.dynamic-programming/6.3 状态机DP/题解-股票买卖 IV-状态机DP.md',
 			'/solution/06.dynamic-programming/6.3 状态机DP/题解-最佳买卖股票时机含冷冻期-状态机DP',
+			'/solution/06.dynamic-programming/6.3 状态机DP/题解-设计密码-KMP+状态机DP',
         ],
     }, {
         title: '区间DP',
