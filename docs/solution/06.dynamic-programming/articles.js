@@ -37,6 +37,7 @@ module.exports = {
         children: [
 			'/solution/06.dynamic-programming/6.4 区间DP/题解-多边形-区间DP.md',
 			'/solution/06.dynamic-programming/6.4 区间DP/题解-金字塔-区间DP.md',
+			'/solution/06.dynamic-programming/6.4 区间DP/题解-凸多边形的划分-区间DP.md',
         ],
     }, {
         title: '树形DP',
