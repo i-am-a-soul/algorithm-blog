@@ -44,6 +44,7 @@ module.exports = {
         title: '树形DP',
         children: [
 			'/solution/06.dynamic-programming/6.5 树形DP/题解-树的中心-树形DP.md',
+			'/solution/06.dynamic-programming/6.5 树形DP/题解-皇宫看守-树形DP.md',
 			'/solution/06.dynamic-programming/6.5 树形DP/题解-积蓄程度-换根法.md',
         ],
     }, {
