@@ -56,7 +56,7 @@ void spfa () {
 }
 
 int main () {
-    while (cin >> n >> m >> dst) {
+    while (scanf("%d%d%d", &n, &m, &dst) != EOF) {
         idx = 0;
         memset(head, -1, sizeof(head));
 
@@ -64,14 +64,14 @@ int main () {
             scanf("%d%d%d", &u, &v, &w);
             add_edge(u, v, w);
         }
-        cin >> w;
+        scanf("%d", &w);
         for (int i = 1, start; i <= w; ++ i) {
-            cin >> start;
+            scanf("%d", &start);
             add_edge(0, start, 0);
         }
 
         spfa();
-        cout << (dis[dst] == inf ? -1 : dis[dst]) << endl;
+        printf("%d\n", dis[dst] == inf ? -1 : dis[dst]);
     }
     return 0;
 }
