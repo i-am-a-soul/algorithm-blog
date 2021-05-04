@@ -33,9 +33,9 @@ void add_edge (int u, int v, int w) {
 }
 void spfa () {
     memset(dis, 0x3f, sizeof(dis));
-    dis[0] = 0;
 
     queue<int> q;
+    dis[0] = 0;
     q.push(0);
     mark[0] = true;
     while (!q.empty()) {

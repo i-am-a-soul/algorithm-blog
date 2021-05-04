@@ -32,8 +32,9 @@ void add_edge (int u, int v, int w) {
 }
 int bfs_01 () {
     memset(dis, 0x3f, sizeof(dis));
-    dis[a] = 0;
+    
     deque<int> dq;
+    dis[a] = 0;
     dq.push_back(a);
     while (!dq.empty()) {
         int cur = dq.front();

@@ -89,8 +89,9 @@ void modify2 (int rt, int l, int r, int a, int b, int v, int w) {
 }
 void spfa (int s) {
     memset(dis, 0x3f, sizeof(dis));
-    dis[s] = 0;
+    
     queue<int> q;
+    dis[s] = 0;
     q.push(s);
     mark[s] = true;
     while (!q.empty()) {

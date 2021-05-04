@@ -44,9 +44,10 @@ int index_of (int i, int j, int k) { // 0：入点，1：出点
 bool spfa () {
     memset(mark, 0, sizeof(mark));
     memset(dis, 0xcf, sizeof(dis));
+    
+    queue<int> q;
     dis[s] = 0;
     flow[s] = inf;
-    queue<int> q;
     q.push(s);
     mark[s] = true;
     while (!q.empty()) {
