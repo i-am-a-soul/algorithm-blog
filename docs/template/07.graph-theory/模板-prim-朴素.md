@@ -33,6 +33,7 @@ void add_edge (int u, int v, int w) {
 int prim () {
     memset(dis, 0x3f, sizeof(dis));
     dis[1] = 0;
+    
     for (int k = 1; k <= n - 1; ++ k) {
         int cur = -1;
         for (int i = 1; i <= n; ++ i)
