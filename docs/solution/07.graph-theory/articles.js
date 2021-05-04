@@ -23,6 +23,7 @@ module.exports = {
 			'/solution/07.graph-theory/7.2 最小生成树/题解-买礼物-最小生成树.md',
 			'/solution/07.graph-theory/7.2 最小生成树/题解-The Unique MST-最小生成树.md',
 			'/solution/07.graph-theory/7.2 最小生成树/题解-新的开始-最小生成树.md',
+			'/solution/07.graph-theory/7.2 最小生成树/题解-北极通讯网络-最小生成树.md',
         ],
     }, {
         title: '树的直径与最近公共祖先',
