@@ -30,6 +30,7 @@ module.exports = {
     }, {
         title: '广搜变形',
         children: [
+			'/solution/03.search/3.6 广搜变形/题解-拯救大兵瑞恩-DP+最短路.md',
         ],
     }, {
         title: 'A星',
