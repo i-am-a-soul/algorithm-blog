@@ -39,6 +39,7 @@ bool check (double x) { // spfa
 
     queue<int> q;
     for (int i = 0; i < 26 * 26; ++ i) {
+        dis[i] = 0;
         q.push(i);
         mark[i] = true;
     }

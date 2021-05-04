@@ -41,6 +41,7 @@ module.exports = {
         children: [
 			'/solution/07.graph-theory/7.5 负环与差分约束/题解-Word Rings-负环.md',
 			'/solution/07.graph-theory/7.5 负环与差分约束/题解-区间-差分约束系统.md',
+			'/solution/07.graph-theory/7.5 负环与差分约束/题解-排队布局-差分约束系统.md',
         ],
     }, {
         title: 'Tarjan算法与无向图连通性',
