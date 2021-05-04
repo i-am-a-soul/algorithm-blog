@@ -58,6 +58,7 @@ module.exports = {
         children: [
 			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-学校网络-缩点.md',
 			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-银河-缩点.md',
+			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-最大半连通子图-tarjan.md',
 			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-卡图难题-2-SAT.md',
         ],
     }, {
