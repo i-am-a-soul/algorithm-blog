@@ -13,6 +13,7 @@ module.exports = {
 			'/solution/07.graph-theory/7.1 最短路/题解-Legacy-线段树优化建图.md',
 			'/solution/07.graph-theory/7.1 最短路/题解-昂贵的聘礼-最短路.md',
 			'/solution/07.graph-theory/7.1 最短路/题解-Choose the best route-最短路.md',
+			'/solution/07.graph-theory/7.1 最短路/题解-观光-次短路.md',
         ],
     }, {
         title: '最小生成树',
