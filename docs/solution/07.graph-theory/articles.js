@@ -39,6 +39,7 @@ module.exports = {
     }, {
         title: '负环与差分约束',
         children: [
+			'/solution/07.graph-theory/7.5 负环与差分约束/题解-Word Rings-负环.md',
 			'/solution/07.graph-theory/7.5 负环与差分约束/题解-区间-差分约束系统.md',
         ],
     }, {
