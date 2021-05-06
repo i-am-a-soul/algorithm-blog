@@ -77,6 +77,7 @@ module.exports = {
         title: '单调队列优化DP',
         children: [
 			'/solution/06.dynamic-programming/6.10 单调队列优化DP/题解-围栏-单调队列优化.md',
+			'/solution/06.dynamic-programming/6.10 单调队列优化DP/题解-修剪草坪-单调队列优化.md',
         ],
     }, {
         title: '斜率优化',
