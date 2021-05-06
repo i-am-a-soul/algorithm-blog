@@ -33,36 +33,36 @@ module.exports = {
 			'/solution/07.graph-theory/7.3 树的直径与最近公共祖先/题解-异象石-LCA+树上差分.md',
         ],
     }, {
-        title: '基环树',
-        children: [
-        ],
-    }, {
         title: '负环与差分约束',
         children: [
-			'/solution/07.graph-theory/7.5 负环与差分约束/题解-Word Rings-负环.md',
-			'/solution/07.graph-theory/7.5 负环与差分约束/题解-区间-差分约束系统.md',
-			'/solution/07.graph-theory/7.5 负环与差分约束/题解-排队布局-差分约束系统.md',
-			'/solution/07.graph-theory/7.5 负环与差分约束/题解-雇佣收银员-差分约束系统.md',
+			'/solution/07.graph-theory/7.4 负环与差分约束/题解-Word Rings-负环.md',
+			'/solution/07.graph-theory/7.4 负环与差分约束/题解-区间-差分约束系统.md',
+			'/solution/07.graph-theory/7.4 负环与差分约束/题解-排队布局-差分约束系统.md',
+			'/solution/07.graph-theory/7.4 负环与差分约束/题解-雇佣收银员-差分约束系统.md',
         ],
     }, {
         title: 'Tarjan算法与无向图连通性',
         children: [
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-B城-割点.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-电力-割点.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-矿场搭建-割点.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-网络-边双连通分量+缩点.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-冗余路径-边双连通分量+缩点.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-圆桌骑士-点双连通分量.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-无序字母对-欧拉路.md',
-			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-看牛-欧拉路.md',
+			'/solution/07.graph-theory/7.5 Tarjan算法与无向图连通性/题解-B城-割点.md',
+			'/solution/07.graph-theory/7.5 Tarjan算法与无向图连通性/题解-电力-割点.md',
+			'/solution/07.graph-theory/7.5 Tarjan算法与无向图连通性/题解-矿场搭建-割点.md',
+			'/solution/07.graph-theory/7.5 Tarjan算法与无向图连通性/题解-网络-边双连通分量+缩点.md',
+			'/solution/07.graph-theory/7.5 Tarjan算法与无向图连通性/题解-冗余路径-边双连通分量+缩点.md',
+			'/solution/07.graph-theory/7.5 Tarjan算法与无向图连通性/题解-圆桌骑士-点双连通分量.md',
         ],
     }, {
         title: 'Tarjan算法与有向图连通性',
         children: [
-			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-学校网络-缩点.md',
-			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-银河-缩点.md',
-			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-最大半连通子图-tarjan.md',
-			'/solution/07.graph-theory/7.7 Tarjan算法与有向图连通性/题解-卡图难题-2-SAT.md',
+			'/solution/07.graph-theory/7.6 Tarjan算法与有向图连通性/题解-学校网络-缩点.md',
+			'/solution/07.graph-theory/7.6 Tarjan算法与有向图连通性/题解-银河-缩点.md',
+			'/solution/07.graph-theory/7.6 Tarjan算法与有向图连通性/题解-最大半连通子图-tarjan.md',
+			'/solution/07.graph-theory/7.6 Tarjan算法与有向图连通性/题解-卡图难题-2-SAT.md',
+        ],
+    }, {
+        title: '欧拉路与欧拉回路',
+        children: [
+			'/solution/07.graph-theory/7.7 欧拉路与欧拉回路/题解-无序字母对-欧拉路.md',
+			'/solution/07.graph-theory/7.7 欧拉路与欧拉回路/题解-看牛-欧拉路.md',
         ],
     }, {
         title: '二分图的匹配',
