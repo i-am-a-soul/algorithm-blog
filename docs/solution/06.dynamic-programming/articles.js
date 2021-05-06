@@ -32,6 +32,7 @@ module.exports = {
 			'/solution/06.dynamic-programming/6.3 状态机DP/题解-最佳买卖股票时机含冷冻期-状态机DP.md',
 			'/solution/06.dynamic-programming/6.3 状态机DP/题解-设计密码-KMP+状态机DP.md',
 			'/solution/06.dynamic-programming/6.3 状态机DP/题解-GT考试-KMP+状态机DP+矩阵快速幂.md',
+			'/solution/06.dynamic-programming/6.3 状态机DP/题解-DNA repair-AC自动机+状态机DP.md',
         ],
     }, {
         title: '区间DP',
