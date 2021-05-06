@@ -48,6 +48,7 @@ module.exports = {
         title: 'Tarjan算法与无向图连通性',
         children: [
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-B城-割点.md',
+			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-电力-割点.md',
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-网络-边双连通分量+缩点.md',
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-冗余路径-边双连通分量+缩点.md',
 			'/solution/07.graph-theory/7.6 Tarjan算法与无向图连通性/题解-圆桌骑士-点双连通分量.md',
