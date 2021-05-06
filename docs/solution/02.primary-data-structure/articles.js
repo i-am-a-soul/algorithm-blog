@@ -11,6 +11,7 @@ module.exports = {
         title: '队列',
         children: [
             '/solution/02.primary-data-structure/2.2 队列/题解-最大子序和-单调队列.md',
+			'/solution/02.primary-data-structure/2.2 队列/题解-理想的正方形-单调队列.md',
         ],
     }, {
         title: '链表与邻接表',
