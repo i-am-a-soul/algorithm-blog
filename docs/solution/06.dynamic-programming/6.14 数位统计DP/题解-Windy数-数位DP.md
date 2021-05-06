@@ -1,6 +1,6 @@
-# `Windy` 数
+# `Windy`数
 
-[LibreOJ-10165-Windy 数](https://vjudge.net/problem/LibreOJ-10165)
+[LibreOJ-10165-Windy数](https://vjudge.net/problem/LibreOJ-10165)
 
 ## 实现
 
