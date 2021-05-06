@@ -105,6 +105,7 @@ module.exports = {
 			'/solution/06.dynamic-programming/6.14 数位统计DP/题解-月之谜-数位DP.md',
 			'/solution/06.dynamic-programming/6.14 数位统计DP/题解-Amount of Degrees-数位DP.md',
 			'/solution/06.dynamic-programming/6.14 数位统计DP/题解-数字游戏-数位DP.md',
+			'/solution/06.dynamic-programming/6.14 数位统计DP/题解-数字游戏 II-数位DP.md',
 			'/solution/06.dynamic-programming/6.14 数位统计DP/题解-Windy数-数位DP.md',
 			'/solution/06.dynamic-programming/6.14 数位统计DP/题解-不要62-数位DP.md',
         ],
