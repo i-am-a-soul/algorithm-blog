@@ -21,7 +21,7 @@ void mul (int f[N], int a[N][N]) {
             res[j] = (res[j] + (LL)f[k] * a[k][j]) % M;
     memcpy(f, res, sizeof(res));
 }
-void mul_self (int a[N][N]) {
+void mul (int a[N][N]) {
     int res[N][N];
     memset(res, 0, sizeof(res));
     for (int i = 0; i < N; ++ i)
@@ -44,7 +44,7 @@ int main () {
     -- n;
     while (n > 0) {
         if (n & 1) mul(f, a);
-        mul_self(a);
+        mul(a);
         n /= 2;
     }
     cout << f[2] << endl;
