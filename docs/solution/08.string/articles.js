@@ -28,6 +28,7 @@ module.exports = {
     }, {
         title: '后缀数组',
         children: [
+			'/solution/08.string/8.6 后缀数组/题解-Reincarnation-后缀数组.md',
         ],
     }, {
         title: 'Manacher',
