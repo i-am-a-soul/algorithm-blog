@@ -69,6 +69,7 @@ module.exports = {
     }, {
         title: '博弈论',
         children: [
+			'/solution/04.mathematics/4.10 博弈论/题解-Brave Game-巴什博弈.md',
 			'/solution/04.mathematics/4.10 博弈论/题解-剪纸游戏-SG函数.md',
 			'/solution/04.mathematics/4.10 博弈论/题解-台阶-Nim游戏-Nim游戏.md',
 			'/solution/04.mathematics/4.10 博弈论/题解-集合-Nim游戏-SG函数.md',
