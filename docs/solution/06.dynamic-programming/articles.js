@@ -12,6 +12,7 @@ module.exports = {
 			'/solution/06.dynamic-programming/6.1 线性DP/题解-编辑距离-字符串线性DP.md',
 			'/solution/06.dynamic-programming/6.1 线性DP/题解-尼克的任务-线性DP.md',
 			'/solution/06.dynamic-programming/6.1 线性DP/题解-友好城市-线性DP.md',
+			'/solution/06.dynamic-programming/6.1 线性DP/题解-多米诺和托米诺平铺.md',
         ],
     }, {
         title: '背包',
