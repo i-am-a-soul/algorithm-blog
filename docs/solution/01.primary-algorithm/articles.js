@@ -43,6 +43,7 @@ module.exports = {
 			prefix + '1.5 排序/题解-逆序对的数量-归并排序.md',
 			prefix + '1.5 排序/题解-区间合并-排序.md',
 			prefix + '1.5 排序/题解-Always Cook Mushroom-极角排序.md',
+			prefix + '1.5 排序/题解-图形面积-离散化.md',
         ],
     }, {
         title: '倍增',
