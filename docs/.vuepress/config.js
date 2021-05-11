@@ -74,7 +74,7 @@ module.exports = {
             }],
         }, {
             text: 'Github',
-            link: 'https://github.com/XDUSunteng',
+            link: 'https://github.com/i-am-a-soul',
         }],
         sidebar: {
             '/template/': getTemplateSidebar(),
