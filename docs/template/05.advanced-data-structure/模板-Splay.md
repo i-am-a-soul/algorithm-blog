@@ -14,7 +14,7 @@
 
 [洛谷-P3369-【模板】普通平衡树](https://www.luogu.com.cn/problem/P3369)
 
-```cpp
+```cpp {116}
 #include <iostream>
 #define null 0
 #define data_key data
@@ -130,7 +130,7 @@ void delete (int ptr, int key) {
         } else {
             root_ptr = ls(root_ptr);
         }
-        return; // ⚠
+        return;
     }
 
     delete(key < key(ptr) ? ls(ptr) : rs(ptr), key);

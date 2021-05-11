@@ -10,7 +10,7 @@ $2^{2n} \% 3 = 1$，$2^{2n+1} \% 3=2$，$n=0,1,2,...$。
 
 ## 实现
 
-```cpp
+```cpp {13}
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -23,7 +23,7 @@ int r[N], sum[N], cnt[3];
 
 int main () {
     while (scanf("%s", str + 1) != EOF) {
-        cnt[0] = 1; // ⚠
+        cnt[0] = 1;
         cnt[1] = cnt[2] = 0;
 
         n = strlen(str + 1);

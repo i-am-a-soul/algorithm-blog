@@ -4,7 +4,7 @@
 
 ## 实现
 
-```cpp
+```cpp {14}
 #include <iostream>
 using namespace std;
 
@@ -18,7 +18,7 @@ int main () {
     for (int i = 1; i <= k; ++ i) cin >> p[i] >> t[i];
 
     int ptr = k;
-    for (int i = n; i >= 1; -- i) { // ⚠：倒序
+    for (int i = n; i >= 1; -- i) { // 倒序
         if (p[ptr] != i) {
             f[i] = f[i + 1] + 1;
         } else {

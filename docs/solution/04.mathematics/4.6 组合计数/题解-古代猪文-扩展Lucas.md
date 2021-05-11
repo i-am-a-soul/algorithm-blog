@@ -8,7 +8,7 @@
 
 ## 实现
 
-```cpp
+```cpp {32}
 #include <iostream>
 using namespace std;
 
@@ -40,7 +40,7 @@ int inv (int a, int p) {
     return (x % p + p) % p;
 }
 int C (int n, int m, int p) {
-    if (n < m) return 0; // ⚠
+    if (n < m) return 0;
     return (LL)f[n] * inv(f[m], p) % p * inv(f[n - m], p) % p;
 }
 int Lucas (int n, int m, int p) {

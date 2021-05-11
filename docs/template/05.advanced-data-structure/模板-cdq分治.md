@@ -12,7 +12,7 @@
 
 [洛谷-P3374-【模板】树状数组 1](https://www.luogu.com.cn/problem/P3374)
 
-```cpp
+```cpp {12}
 #include <iostream>
 using namespace std;
 
@@ -24,7 +24,7 @@ struct operation {
     LL val;
     bool operator < (const operation& o) const {
         if (idx == o.idx)
-            return type < o.type; // ⚠
+            return type < o.type;
         return idx < o.idx;
     }
 };

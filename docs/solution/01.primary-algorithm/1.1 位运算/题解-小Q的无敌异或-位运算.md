@@ -10,7 +10,7 @@
 
 ## 实现
 
-```cpp
+```cpp {16}
 #include <iostream>
 using namespace std;
 
@@ -26,7 +26,7 @@ int main () {
         xor_sum[i] = xor_sum[i - 1] ^ a[i];
     int res = 0;
     for (int k = 0; k <= 19; ++ k) {
-        cnt[0] = 1; // ⚠
+        cnt[0] = 1;
         cnt[1] = 0;
 
         for (int i = 1; i <= n; ++ i) {

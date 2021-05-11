@@ -8,7 +8,7 @@
 
 ## 实现
 
-```cpp
+```cpp {48}
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -56,7 +56,7 @@ int main () {
                     flag = false;
                     break;
                 }
-                if (i == m + 1) break; // ⚠
+                if (i == m + 1) break;
                 // ----- 当前的权值 -----
                 x = y = 0;
                 for (int j = i; j <= m + 1; ++ j) {
