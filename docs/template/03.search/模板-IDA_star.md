@@ -32,7 +32,7 @@ void insert (int l, int r, int k) {
     }
     for (int i = l; i <= k; ++ i) a[i] = temp[i];
 }
-bool IDA_star (int cur) {
+bool dfs (int cur) {
     int tot = get_tot();
     if (tot == 0) return true;
 
@@ -44,7 +44,7 @@ bool IDA_star (int cur) {
         for (int r = l; r <= n; ++ r) { // [l, r]
             for (int k = r + 1; k <= n; ++ k) {
                 insert(l, r, k);
-                if (IDA_star(cur + 1) == true) return true;
+                if (dfs(cur + 1) == true) return true;
                 memcpy(a, copy_a, sizeof(copy_a));
             }
         }
@@ -61,7 +61,7 @@ int main () {
 
         bool flag = false;
         for (max_dep = 0; max_dep <= 4; ++ max_dep) {
-            if (IDA_star(0) == true) {
+            if (dfs(0) == true) {
                 flag = true;
                 break;
             }
