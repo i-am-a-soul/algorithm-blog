@@ -4,7 +4,7 @@
 
 ## 实现
 
-```c++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
