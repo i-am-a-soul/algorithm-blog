@@ -22,6 +22,11 @@ module.exports = {
         '@vuepress/medium-zoom',
     ], [
 		'@vuepress/back-to-top',
+	], [
+		'@vuepress/search',
+		{
+			searchMaxSuggestions: 10,
+		},
 	]],
     markdown: {
         lineNumbers: true,
