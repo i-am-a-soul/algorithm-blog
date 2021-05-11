@@ -4,11 +4,11 @@
 
 右旋（`zig`）：
 
-![](/img/0036.gif)
+![](/algorithm-blog/img/0036.gif)
 
 左旋（`zag`）：
 
-![](/img/0035.gif)
+![](/algorithm-blog/img/0035.gif)
 
 ## 模板题
 

@@ -6,7 +6,7 @@
 
 见《进阶指南》第`7`页。
 
-![](/img/0044.bmp)
+![](/algorithm-blog/img/0044.bmp)
 
 ## 实现
 

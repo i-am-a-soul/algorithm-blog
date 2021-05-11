@@ -8,7 +8,7 @@
 
 一去一回等价于去两次。
 
-![](/img/0032.jpg)
+![](/algorithm-blog/img/0032.jpg)
 
 ## 实现
 

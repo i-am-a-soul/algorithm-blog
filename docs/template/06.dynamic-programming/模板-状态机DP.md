@@ -2,7 +2,7 @@
 
 ## 原理
 
-![](/img/0067.bmp)
+![](/algorithm-blog/img/0067.bmp)
 
 ## 模板题
 

@@ -6,7 +6,7 @@
 
 线段树优化建图。
 
-![](/img/0061.bmp)
+![](/algorithm-blog/img/0061.bmp)
 
 ## 实现
 

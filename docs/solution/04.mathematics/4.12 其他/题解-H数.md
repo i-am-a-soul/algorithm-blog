@@ -4,7 +4,7 @@
 
 ## 分析
 
-![](/img/0019.bmp)
+![](/algorithm-blog/img/0019.bmp)
 
 ## 实现
 

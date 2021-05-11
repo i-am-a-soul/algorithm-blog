@@ -18,7 +18,7 @@ Yes
 
 有向图游戏`7`：
 
-![](/img/0055.bmp)
+![](/algorithm-blog/img/0055.bmp)
 
 ## 实现
 

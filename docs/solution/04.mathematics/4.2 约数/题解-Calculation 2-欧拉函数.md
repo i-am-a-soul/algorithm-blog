@@ -4,7 +4,7 @@
 
 ## 分析
 
-![](/img/0070.png)
+![](/algorithm-blog/img/0070.png)
 
 若`gcd(n, i) = 1`，则根据更相减损术有`gcd(n, n - i) = gcd(n, i) = 1`。
 

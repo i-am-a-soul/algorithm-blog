@@ -4,11 +4,11 @@
 
 见《进阶指南》第`289`页。
 
-![](/img/0045.bmp)
+![](/algorithm-blog/img/0045.bmp)
 
 $f[u][0] = \displaystyle\sum_{i=1}^k max(f[v_i][0],f[v_i][1])$。
 
-![](/img/0046.bmp)
+![](/algorithm-blog/img/0046.bmp)
 
 $f[u][1] = \displaystyle\sum_{i=1}^k f[v_i][0]$。
 

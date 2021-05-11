@@ -8,7 +8,7 @@
 
 $f[i][j]$记录从$a[i]$到$a[i + 2^j-1]$共$2^j$个数的最大值。
 
-![](/img/0017.png)
+![](/algorithm-blog/img/0017.png)
 
 状态转移方程：$f[i][j] = max(f[i][j - 1], f[i +2^{j-1}][j - 1])$。
 
@@ -24,7 +24,7 @@ $f[i][j]$记录从$a[i]$到$a[i + 2^j-1]$共$2^j$个数的最大值。
 
 设$k = \lfloor log_2(len) \rfloor$。
 
-![](/img/0018.png)
+![](/algorithm-blog/img/0018.png)
 
 - 当待查询区间的长度是`2`的非负整数次幂时，$2\times 2^k=2 \times 2^{\lfloor log_2(len) \rfloor}=2\times len \gt len$。
 

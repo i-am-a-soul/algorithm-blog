@@ -6,7 +6,7 @@
 
 示意图：
 
-![](/img/0049.bmp)
+![](/algorithm-blog/img/0049.bmp)
 
 极角序统计答案。
 

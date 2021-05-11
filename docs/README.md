@@ -1,3 +1,3 @@
 # 欢迎！
 
-![](/img/banner.jpg)
+![](/algorithm-blog/img/banner.jpg)
