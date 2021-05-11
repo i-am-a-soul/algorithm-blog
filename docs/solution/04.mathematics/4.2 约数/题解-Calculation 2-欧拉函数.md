@@ -4,9 +4,7 @@
 
 ## 分析
 
-$\displaystyle\sum_{\substack{1\le i \lt n\\i \not \perp n}} i$
-
-$=\displaystyle\sum_{i=1}^{n-1}i-\displaystyle\sum_{\substack{1\le i \lt n\\i \perp n}} i$
+![](/img/0070.png)
 
 若`gcd(n, i) = 1`，则根据更相减损术有`gcd(n, n - i) = gcd(n, i) = 1`。
 
@@ -42,5 +40,4 @@ int main () {
     return 0;
 }
 ```
-
 
