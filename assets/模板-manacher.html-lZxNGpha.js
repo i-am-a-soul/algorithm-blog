@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5b3315c7","path":"/template/08.string/%E6%A8%A1%E6%9D%BF-manacher.html","title":"manacher","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"模板题","slug":"模板题","link":"#模板题","children":[]}],"git":{"updatedTime":1702041654000},"filePathRelative":"template/08.string/模板-manacher.md"}');export{e as data};

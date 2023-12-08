@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dcac159a","path":"/template/08.string/%E6%A8%A1%E6%9D%BF-AC%E8%87%AA%E5%8A%A8%E6%9C%BA.html","title":"AC自动机","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"模板题","slug":"模板题","link":"#模板题","children":[]}],"git":{"updatedTime":1702041654000},"filePathRelative":"template/08.string/模板-AC自动机.md"}');export{t as data};

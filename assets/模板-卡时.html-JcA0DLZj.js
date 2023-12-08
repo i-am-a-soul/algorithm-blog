@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b5c8e6c2","path":"/template/09.tricks/%E6%A8%A1%E6%9D%BF-%E5%8D%A1%E6%97%B6.html","title":"卡时","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"模板题","slug":"模板题","link":"#模板题","children":[]}],"git":{"updatedTime":1702041654000},"filePathRelative":"template/09.tricks/模板-卡时.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7b57d53a","path":"/template/09.tricks/%E6%A8%A1%E6%9D%BF-snippet.html","title":"C++ snippet","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"代码","slug":"代码","link":"#代码","children":[]}],"git":{"updatedTime":1702041654000},"filePathRelative":"template/09.tricks/模板-snippet.md"}');export{t as data};

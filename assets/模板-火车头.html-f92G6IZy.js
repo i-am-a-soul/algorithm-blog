@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7d6161b8","path":"/template/09.tricks/%E6%A8%A1%E6%9D%BF-%E7%81%AB%E8%BD%A6%E5%A4%B4.html","title":"火车头","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"代码","slug":"代码","link":"#代码","children":[]}],"git":{"updatedTime":1702041654000},"filePathRelative":"template/09.tricks/模板-火车头.md"}');export{t as data};

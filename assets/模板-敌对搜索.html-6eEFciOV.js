@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7c551224","path":"/template/04.mathematics/%E6%A8%A1%E6%9D%BF-%E6%95%8C%E5%AF%B9%E6%90%9C%E7%B4%A2.html","title":"敌对搜索","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"模板题","slug":"模板题","link":"#模板题","children":[]}],"git":{"updatedTime":1702041654000},"filePathRelative":"template/04.mathematics/模板-敌对搜索.md"}');export{t as data};
